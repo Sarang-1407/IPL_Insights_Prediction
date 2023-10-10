@@ -47,7 +47,7 @@ The dataset used for this project includes player attributes, performance metric
    ```bash
    git clone https://github.com/yourusername/ipl-player-prediction.git
 
-   Results
+## Results
 Prediction Models
 Linear Regression Model:
 
@@ -64,11 +64,11 @@ R2 Score: 91.522
 Analysis
 In addition to prediction models, the project includes comprehensive analysis of IPL player auctions, uncovering valuable insights into the valuation process.
 
-Correlation Studies
+## Correlation Studies
 Detailed correlation studies are conducted to identify relationships between player attributes, performance metrics, and auction prices.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or create a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
