@@ -42,13 +42,14 @@ The dataset used for this project includes player attributes, performance metric
 
 ## Usage
 
-1. Clone this repository:
+### Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/ipl-player-prediction.git
+   git clone https://github.com/your-username/IPL_Insights_Prediction.git
 
 ## Results
-Prediction Models
+### Prediction Models
+
 Linear Regression Model:
 RMSE: 87902.764
 R2 Score: 96.371
