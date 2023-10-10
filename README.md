@@ -44,9 +44,7 @@ The dataset used for this project includes player attributes, performance metric
 
 ### Clone this repository:
 
-   ```bash
-   git clone https://github.com/your-username/IPL_Insights_Prediction.git
-
+   
 ## Results
 ### Prediction Models
 
