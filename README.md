@@ -50,18 +50,18 @@ The dataset used for this project includes player attributes, performance metric
 ## Results
 Prediction Models
 Linear Regression Model:
-
 RMSE: 87902.764
 R2 Score: 96.371
-Ridge Regression Model:
 
+Ridge Regression Model:
 RMSE: 84222.506
 R2 Score: 96.655
-Random Forest Regression Model:
 
+Random Forest Regression Model:
 RMSE: 127589.38
 R2 Score: 91.522
-Analysis
+
+## Analysis
 In addition to prediction models, the project includes comprehensive analysis of IPL player auctions, uncovering valuable insights into the valuation process.
 
 ## Correlation Studies
